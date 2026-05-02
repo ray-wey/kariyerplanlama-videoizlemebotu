@@ -3,7 +3,7 @@
 https://ytnktv.uzaktanegitimkapisi.gov.tr/ sitesindeki videoları arkaplanda izleme-videoyu zorla devam ettirme-otomatik diğer videoya geçme-hızı ayarlama (opsiyonel)
 
 
-* **Tampermonkey** (chrome, firefox hepsinde var)
+* **Tampermonkey** (chrome, firefox hepsinde var ancak firefox'tan yapın chrome da çalışmadı)
 bu eklentiyi kurun. sağ üstten tampermonkey eklentisini açın. "new script" tıklayın ve oradaki kodları silin. botcode.js içindeki kodları kopyalayın ve buraya yapıştırın. kaydetmek için (ctrl + s) yapın.
 
 * ardından https://ytnktv.uzaktanegitimkapisi.gov.tr/ a gidin
